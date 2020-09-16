@@ -3,7 +3,7 @@
 
 <p  align="center"><img height="500" src = "https://github.com/pratishtha-abrol/pratishtha-abrol/blob/master/2.gif"></p>
 
-<p  align="center"> ![github stats](https://github-readme-stats.vercel.app/api?username=pratishtha-abrol&show_icons=true&count_private=true) </p>
+![github stats](https://github-readme-stats.vercel.app/api?username=pratishtha-abrol&show_icons=true&count_private=true)
 
 <!--
 **pratishtha-abrol/pratishtha-abrol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
