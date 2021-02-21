@@ -6,6 +6,7 @@
 <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=pratishtha-abrol&show_icons=true&count_private=true" />
 <img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratishtha-abrol" />
 
+<br><br>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/pratishtha-abrol/count.svg" />
