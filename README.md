@@ -1,11 +1,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-pratishthaabrol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratishtha-abrol/)](https://www.linkedin.com/in/pratishtha-abrol/)
-<!-- [![Gmail Badge](https://img.shields.io/badge/-pratishthaabrol@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratishthaabrol@gmail.com)](mailto:pratishthaabrol@gmail.com) -->
-[![Gmail Badge](https://img.shields.io/badge/-pratishthaabrol@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratishtha.abrol@research.iiit.ac.in)](mailto:pratishtha.abrol@research.iiit.ac.in)
+[![Gmail Badge](https://img.shields.io/badge/-pratishthaabrol@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratishthaabrol@gmail.com)](mailto:pratishthaabrol@gmail.com)
 
 <!-- <p  align="center"><img height="500" src = "https://github.com/pratishtha-abrol/pratishtha-abrol/blob/master/2.gif"></p> -->
 
-<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=pratishtha-abrol&show_icons=true&count_private=true" />
-<img align="centre" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratishtha-abrol&layout=compact" />
+<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=pratishtha-abrol&show_icons=true&count_private=true" />
+<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratishtha-abrol&layout=compact" />
 
 <p align="center"> 
   Visitor count<br>
