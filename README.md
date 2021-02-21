@@ -4,7 +4,7 @@
 <!-- <p  align="center"><img height="500" src = "https://github.com/pratishtha-abrol/pratishtha-abrol/blob/master/2.gif"></p> -->
 
 <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=pratishtha-abrol&show_icons=true&count_private=true" />
-<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratishtha-abrol" />
+<img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratishtha-abrol" />
 
 <p align="center"> 
   Visitor count<br>
