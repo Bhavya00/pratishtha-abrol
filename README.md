@@ -9,6 +9,8 @@
   <br>
   😄 Pronouns: She, Her
   <br>
+</p>
+<p align="center">
   🔬 I'm currently working on Quantum Computing 
   <br>
   🌱 My myriad interests in programming, apart from Quantum Computing, include, Computer Graphics and Vision, Artificial Intelligence, Cryptography and Algorithms
