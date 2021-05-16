@@ -13,7 +13,7 @@
   <br>
   🌱 My myriad interests in programming, apart from Quantum Computing, include, Computer Graphics and Vision, Artificial Intelligence, Cryptography and Algorithms
   <br>
-  📫 Reach me at **pratishtha-abrol@research.iiit.ac.in**
+  📫 Reach me at <a href="mailto: pratishtha.abrol@research.iiit.ac.in">pratishtha.abrol@research.iiit.ac.in</a>
   <br>
   ⚡ Fun fact: My personality is an amalgamation of Olaf and Spongebob, with a few elements from Cheshire Cat and Merlin. Oh, and I am evidently a huge Disney nerd.
 </p>
