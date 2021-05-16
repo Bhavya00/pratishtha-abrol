@@ -19,6 +19,16 @@
   <br>
   ⚡ Fun fact: My personality is an amalgamation of Olaf and Spongebob, with a few elements from Cheshire Cat and Merlin. Oh, and I am evidently a huge Disney nerd.
 </p>
+<br>
+<h4 align="center">
+  🔥 Streak Stats 🔥
+</h4>
+<br>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="pratishtha-abrol's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pratishtha-abrol1&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
 
 
 <!--
