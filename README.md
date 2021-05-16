@@ -26,7 +26,7 @@
 <br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="pratishtha-abrol's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pratishtha-abrol1&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="pratishtha-abrol's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pratishtha-abrol&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
