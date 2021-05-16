@@ -20,6 +20,7 @@
   ⚡ Fun fact: My personality is an amalgamation of Olaf and Spongebob, with a few elements from Cheshire Cat and Merlin. Oh, and I am evidently a huge Disney nerd.
 </p>
 <br>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="pratishtha-abrol's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pratishtha-abrol&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <h4 align="center">
   🔥 Streak Stats 🔥
 </h4>
