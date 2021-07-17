@@ -23,85 +23,85 @@
   ✒️ Languages and Tools ✒️
 </h4>
 <p align="center">
-  <a href="">
+  <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
-  <a href="">
+  <a href="https://www.javascript.com/">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   </a>
-  <a href="">
+  <a href="https://www.cplusplus.com/">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   </a>
-  <a href="">
+  <a href="https://www.php.net/">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=whit"/>
   </a>
-  <a href="">
+  <a href="https://www.mysql.com/">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   </a>
-  <a href="">
+  <a href="https://www.mongodb.com/">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   </a>
-  <a href="">
+  <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   </a>
-  <a href="">
+  <a href="https://www.npmjs.com/">
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=whit"/>
   </a>
-  <a href="">
+  <a href="http://expressjs.com/">
     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
   </a>
-  <a href="">
+  <a href="https://www.r-project.org/">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=whit"/>
   </a>
-  <a href="">
+  <a href="https://docs.opencv.org/master/index.html">
     <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
   </a>
-  <a href="">
+  <a href="https://jupyter.org/">
     <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
   </a>
-  <a href="">
+  <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   </a>
-  <a href="">
+  <a href="https://angularjs.org/">
     <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=whit"/>
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   </a>
-  <a href="">
+  <a href="https://getbootstrap.com/">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   </a>
-  <a href="">
+  <a href="https://material-ui.com/">
     <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
   </a>
-  <a href="">
+  <a href="https://www.djangoproject.com/">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=whit"/>
   </a>
-  <a href="">
+  <a href="https://unity.com/">
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
   </a>
-  <a href="">
+  <a href="https://www.tensorflow.org/">
     <img src="https://img.shields.io/badge/Tensorflow-F37626.svg?style=for-the-badge&logo=Tensorflow&logoColor=white"/>
   </a>
-  <a href="">
+  <a href="https://kubernetes.io/">
     <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=whit"/>
   </a>
-  <a href="">
+  <a href="https://www.anaconda.com/">
     <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
   </a>
-  <a href="">
+  <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
   </a>
-  <a href="">
+  <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   </a>
-  <a href="">
+  <a href="https://jekyllrb.com/">
     <img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white"/>
   </a>
 </p>
