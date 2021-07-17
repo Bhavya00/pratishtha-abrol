@@ -63,9 +63,6 @@
     <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/Tensorflow-F37626.svg?style=for-the-badge&logo=Tensorflow&logoColor=white"/>
-  </a>
-  <a href="">
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
   </a>
   <a href="">
@@ -88,6 +85,9 @@
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Tensorflow-F37626.svg?style=for-the-badge&logo=Tensorflow&logoColor=white"/>
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=whit"/>
