@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/style=for-the-badge&logo=Tensorflow&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Tensorflow&logoColor=orange"/>
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
